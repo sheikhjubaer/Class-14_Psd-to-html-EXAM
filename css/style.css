@@ -190,8 +190,8 @@ body {
 /*Feature CSS Start*/
 .feature {}
 .wrapper {
-    margin-top: 100px;
-    margin-bottom: 52px;
+    padding-top: 100px;
+    padding-bottom: 52px;
     overflow: hidden;
 }
 .f_single {
@@ -414,8 +414,10 @@ body {
 
 /*Team CSS Start*/
 .team {
-    padding: 100px 0;
     background: #111111;
+}
+.wrapper3 {
+    padding: 100px 0;
 }
 .t-text {
 	text-align: center;
