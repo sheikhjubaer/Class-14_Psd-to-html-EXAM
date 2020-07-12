@@ -595,7 +595,9 @@ body {
 	width: 47%;
 	float: right;
 }
-.ft-form {}
+.ft-form {
+    margin-top: 20px;
+}
 .ft-form input {
     margin-bottom: 26px;
     padding: 18px;
