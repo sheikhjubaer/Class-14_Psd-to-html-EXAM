@@ -171,6 +171,7 @@ body {
 	float: right;
 }
 .s-text1 h1 {
+	padding-left: 15px;
 	font-family: Brandon_light;
 	font-size: 60px;
 	font-weight: 200;
@@ -182,6 +183,7 @@ body {
 }
 .s-text1 p {
 	margin-top: 28px;
+	padding-left: 15px;
 	font-size: 18px;
 	color: #777777;
 }
@@ -460,7 +462,7 @@ body {
 }
 .t-text1 {
     text-align: center;
-    margin-bottom: 5px;
+    margin-bottom: 8px;
     color: #fff;
 }
 .t-social {
